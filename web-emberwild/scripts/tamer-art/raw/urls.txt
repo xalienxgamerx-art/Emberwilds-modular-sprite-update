@@ -1,0 +1,28 @@
+# Raw AI-generated part sources (generateImageAsset, hero.png style reference).
+# Downloaded with: curl -A "Mozilla/5.0" -o <name>.png https://q4m8cnawv8mmpfbxplm4o.rork.app/~assets/img/<uuid>.png
+body_trailwarden d7bd6f8f-ed9e-4017-8bf9-cebee7fb0ac6
+body_brawler 6d49895e-e21d-46a9-a655-157e3af02ba7
+body_wayfarer a3747bbf-1727-4998-ae11-5cebf1a66b3e
+body_scout 7ee88449-0ab3-444d-895b-204cfda7409a
+head_square bbded00d-639a-436a-8bf9-f8310629de01
+head_angular 58e5f1e1-2df0-4bff-b65d-33c8258f1024
+head_round c6bd2b0e-43c4-4ed0-ac25-b92064cef72b
+head_heart f59870a2-71ab-445a-b97c-c3c4c7acf481
+hair_crop_front 3ef38d4f-fb17-46ef-a394-ba98e2b804a2
+hair_tousled_front 174791a7-87d7-45aa-84b9-41551b509165
+hair_bob_front 11385bcf-9646-42ae-b5b4-0e1b483dd235
+hair_shag_front b6943106-13ce-4128-aa26-f1b10133d38c
+hair_mane_front c4eabf9e-835e-41ec-9ae9-48b263380cc3
+hair_braid_front ace2ea6a-d2b2-4d5a-827e-434ea6949aee
+hair_bob_back 94b5dce9-fe21-4652-aa18-906b3c55531a
+hair_shag_back 729a08a6-bcef-43e0-9b64-e98051439afe
+hair_mane_back 72274869-a9bf-46d9-905d-76e7275a28ee
+hair_braid_back 09d4d45c-d956-44e1-b0d4-5343e4fa01c1
+face_stern_neutral 62e2b5f9-a542-4964-b29d-12593a70a1d6
+face_stern_grin 57b84434-5385-4f61-bfa8-bfae324dcd39
+face_easy_neutral 920a29b8-ba82-4de5-b7ec-2742cb61ab43
+face_easy_grin 1940ec3d-6062-4dd7-b9a9-9dace9e72274
+face_bright_neutral 20775228-36e2-46c5-a770-59f6d187e0f0
+face_bright_grin 271d1b30-d0fb-4f56-8c7a-37c4301bdbc8
+face_keen_neutral d032c8b1-dc82-417f-90d1-bf4c65274840
+face_keen_grin f54ed21e-4aea-447a-a232-a40e8df1ee55
